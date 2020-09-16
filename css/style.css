@@ -1,0 +1,88 @@
+body {
+        background-color: black;
+        padding: 0;
+    margin: 0;
+}
+
+.mainDiv {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    font-size: 0;
+
+}
+
+.red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    
+}
+
+.yellow {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 100%;
+
+}
+
+.green {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.red1 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    
+    border-radius: 100%;
+}
+
+.yellow1 {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+.green1 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
+.red2 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.yellow2 {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+.green2 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 100%;    
+}
+
+.mainDiv > div {
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    display: inline-block;
+
+}
+
+p{
+    padding: 50px;
+}
